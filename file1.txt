@@ -10,3 +10,6 @@ change 4:- for WI6 on local master to test normal push.
 
 change 5:- by teammate on remote master for bug3. 
 
+change 6:- for WI6 on local master to test normal push.
+
+change 7:- on local master for WI7.
