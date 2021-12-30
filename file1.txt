@@ -1,9 +1,12 @@
 hello world.
 
-change :- login feature added!!
+change 1:- login feature added!!
 
-change :- done by teammate for WI3
+change 2:- done by teammate for WI3
 
-change :- for the bug2.
+change 3:- for the bug2.
 
-change :- for WI6 on local master to test normal push.
+change 4:- for WI6 on local master to test normal push.
+
+change 5:- by teammate on remote master for bug3. 
+
