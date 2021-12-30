@@ -1,5 +1,8 @@
 hello world.
 
-change - login feature added!!
 
-change - done by teammate for WI3
+change :- login feature added!!
+
+change :- done by teammate for WI3
+
+change :- for the bug2.
